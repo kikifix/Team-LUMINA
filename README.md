@@ -179,4 +179,8 @@ This project is licensed under the MIT License.
 
 ---
 
-Built with ❤️ using the MERN stack. Happy traveling! 🌍
+Built with ❤️ by Team LUMINA. Happy traveling! 🌍
+Team members-
+DIPIKA
+SUDIKSHA
+KOYEL
